@@ -1,6 +1,7 @@
-### Hi there 👋
+안녕하세요.👋
+도전하는 머신러닝 개발자 백재훈입니다.
 
-Here is my [cv](https://github.com/hariura/hariura/blob/main/jaehun_CV.pdf)
+제 [cv](https://github.com/hariura/hariura/blob/main/jaehun_CV.pdf)는 여기서 볼 수 있습니다. 
 .
 
 
