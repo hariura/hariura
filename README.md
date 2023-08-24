@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Here is my [이력서 보기](https://github.com/hariura/hariura/blob/main/jaehun_CV.pdf)
+Here is my [cv](https://github.com/hariura/hariura/blob/main/jaehun_CV.pdf)
 .
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
