@@ -1,6 +1,16 @@
 안녕하세요.👋
 <br>도전하는 머신러닝 개발자 백재훈입니다.
 
+<br>Computer Vision에 대한 것이라면 어떤 것이든지 즐겁게 바라보고 있습니다
+- 2D object detection
+- Diffusion
+- 3D Object detection
+- SRGAN
+- Anomaly Detection in Surveillance video
+
+
+
+
 제 [cv](https://github.com/hariura/hariura/blob/main/jaehun_CV.pdf)는 여기서 볼 수 있습니다. 
 
 
