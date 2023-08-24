@@ -2,7 +2,7 @@
 <br>도전하는 머신러닝 개발자 백재훈입니다.
 
 제 [cv](https://github.com/hariura/hariura/blob/main/jaehun_CV.pdf)는 여기서 볼 수 있습니다. 
-.
+
 
 
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
