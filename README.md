@@ -11,7 +11,7 @@
 
 
 
-제 [cv](https://github.com/hariura/hariura/blob/main/jaehun_CV.pdf)는 여기서 볼 수 있습니다. 
+제 [cv](https://github.com/hariura/hariura/blob/main/jaehun_CV.pdf) 와 [포트폴리오](https://github.com/hariura/hariura/blob/main/jaehun_portfolio.pdf)는 여기서 볼 수 있습니다. 
 
 
 
